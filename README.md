@@ -10,6 +10,7 @@ This project is an interactive Microsoft Excel dashboard designed to monitor fle
 - Driver performance
 - Vehicle safety metrics
 - Interactive slicers
+- Data Insights
 
 ## Tools Used
 - Microsoft Excel
@@ -17,6 +18,7 @@ This project is an interactive Microsoft Excel dashboard designed to monitor fle
 - Pivot Charts
 - Slicers
 - Conditional Formatting
+- Functions and Formulas
 
 ## Dashboard Preview
 
